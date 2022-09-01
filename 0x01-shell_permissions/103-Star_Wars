@@ -1,2 +1,2 @@
 #!/bin/bash
-telent tower.blinkenlight.nl
+telnet tower.blinkenlight.nl
